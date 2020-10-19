@@ -1,7 +1,7 @@
 # calculator-developers-bot
 This is a chatbot which have calculator, developers of programming .
 
-#Team mates:
+##Team mates:
 
 1.Mohidhin(18pa1a0594)
 
